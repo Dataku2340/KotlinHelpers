@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AddVarianceModifier" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="RedundantElseInIf" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="ReplaceGuardClauseWithFunctionCall" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="ReplaceSubstringWithDropLast" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="ReplaceSubstringWithIndexingOperation" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="ReplaceSubstringWithSubstringAfter" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="ReplaceSubstringWithSubstringBefore" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+    <inspection_tool class="ReplaceSubstringWithTake" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
+  </profile>
+</component>
